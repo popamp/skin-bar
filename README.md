@@ -2,6 +2,10 @@
 
 Popamp Modern as a bar: the main window is a strip 14 pixels high across the bottom (or top) of the screen, reserved like a taskbar, with the playlist and the equalizer against its right end.
 
+![Popamp Bar: the bar at the bottom of the screen with the equalizer and the playlist above its right end](preview.png)
+
+The picture leaves out the middle of the bar, which runs the whole width of the screen.
+
 A vector skin for [Popamp](https://github.com/popamp/popamp), skin format
 version 1. All artwork is the skin's own.
 
