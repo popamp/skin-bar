@@ -1,5 +1,12 @@
 # Popamp Bar
 
+# ⚠️ This skin was generated automatically
+
+## It needs a designer's edits to make it simpler
+
+The pictures were written by a program, not drawn by a designer, so the
+files are more complicated than the skin needs. Fork it and redraw it.
+
 Popamp Modern as a bar: the main window is a strip 14 pixels high across the bottom (or top) of the screen, reserved like a taskbar, with the playlist and the equalizer against its right end.
 
 ![Popamp Bar: the bar at the bottom of the screen with the equalizer and the playlist above its right end](preview.png)
